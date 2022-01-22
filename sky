@@ -1,0 +1,11 @@
+s = Instance.new("Sky")
+s.Name = "Sky"
+s.Parent = game.Lighting
+asdf = 1457182837
+ID = "http://www.roblox.com/asset/?id="..asdf...""
+s.SkyboxBk = ID
+s.SkyboxDn = ID
+s.SkyboxFt = ID
+s.SkyboxLf = ID
+s.SkyboxRt = ID
+s.SkyboxUp = ID
